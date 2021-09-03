@@ -1,0 +1,172 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.resume_left {
+    width: 30%;
+    background-color: rgba(27, 32, 105, 0.801);
+}
+
+.resume {
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    overflow-x: hidden;
+    /* padding-top: 20px; */
+}
+
+.photo {
+    padding-top: 10px;
+}
+
+.photo img {
+    height: 130px;
+    width: 130px;
+    margin: auto;
+    display: block;
+    border-radius: 50%;
+    border: 2px solid darkblue;
+    /* padding-top: 10px; */
+    text-align: center;
+}
+
+.phototext {
+    padding: 10px 10px;
+    color: darkgray;
+    font-size: 15px;
+}
+
+#name {
+    padding-left: 20px;
+}
+
+#text {
+    padding-left: 50px;
+    padding-top: 10px;
+}
+
+.info {
+    margin-left: 25px;
+    margin-top: 10px;
+    font-size: 15px;
+}
+
+.pi_data {
+    margin-left: 33px;
+}
+
+.skill_data {
+    margin-left: 58px;
+}
+
+.language_data {
+    margin-left: 58px;
+}
+
+.pi_data ul {
+    text-decoration: none;
+}
+
+.pi_data ul li {
+    list-style: none;
+    padding: 3px;
+}
+
+.pi h1 {
+    background-color: rgba(0, 0, 0, 0.274);
+    color: darkgray;
+    /* font-family: 'Kaisei Tokumin', serif; */
+}
+
+.info h1 {
+    background-color: rgba(0, 0, 0, 0.274);
+    color: darkgray;
+    /* font-family: 'Kaisei Tokumin', serif; */
+}
+
+.skillhead {
+    margin-top: 20px;
+    color: rgb(109, 107, 107);
+}
+
+.head3 {
+    padding-bottom: 25px;
+    color: rgb(109, 107, 107);
+}
+
+#percent {
+    background-color: grey;
+    height: 20px;
+    width: 90%;
+    border-radius: 5px;
+}
+
+#percent1 {
+    background-color: grey;
+    height: 20px;
+    width: 60%;
+    border-radius: 5px;
+}
+
+#percent2 {
+    background-color: grey;
+    height: 20px;
+    width: 70%;
+    border-radius: 5px;
+}
+
+#percent3 {
+    background-color: grey;
+    height: 20px;
+    width: 60%;
+    border-radius: 5px;
+}
+
+#percent4 {
+    background-color: grey;
+    height: 20px;
+    width: 85%;
+    border-radius: 5px;
+}
+
+#percent5 {
+    background-color: grey;
+    height: 20px;
+    width: 80%;
+    border-radius: 5px;
+}
+
+#lan_per {
+    background-color: grey;
+    height: 20px;
+    width: 70%;
+    border-radius: 5px;
+}
+
+#lan_per1 {
+    background-color: grey;
+    height: 20px;
+    width: 90%;
+    border-radius: 5px;
+}
+
+#lan_per2 {
+    background-color: grey;
+    height: 20px;
+    width: 60%;
+    border-radius: 5px;
+}
+
+.bar {
+    background-color: silver;
+    width: 90%;
+    border-radius: 5px;
+}
+
+.data {
+    padding-top: 5px;
+    color: rgb(109, 107, 107);
+}
